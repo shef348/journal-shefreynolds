@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary }}{{ end }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="/index.xml">
+</head>
+<body>
+  <div class="site-wrapper">
+    <header>
+      <a href="/" class="site-title">{{ .Site.Title }}</a>
+      <nav class="site-nav">
+        <a href="/">Journal</a>
+        <a href="https://www.shefreynolds.com">shefreynolds.com</a>
+      </nav>
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+      <p>© {{ now.Year }} Shef Reynolds</p>
+    </footer>
+  </div>
+</body>
+</html>
