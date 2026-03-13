@@ -1,7 +1,6 @@
 baseURL = "https://journal.shefreynolds.com/"
 languageCode = "en-us"
 title = "Shef Reynolds"
-theme = ""
 
 [params]
   description = "A journal by Shef Reynolds"
