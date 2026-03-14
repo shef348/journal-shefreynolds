@@ -29,10 +29,14 @@ function exchangeCodeForToken(clientId, clientSecret, code) {
 }
 
 module.exports = async function handler(req, res) {
-  const { code } = req.query;
+  // Parse query string explicitly from the URL
+  const fullUrl = 'https://journal.shefreynolds.com' + req.url;
+  const parsedUrl = new URL(fullUrl);
+  const code = parsedUrl.searchParams.get('code');
+
+  console.log('auth handler called, url:', req.url, 'code present:', !!code);
 
   if (!code) {
-    // Step 1: redirect to GitHub OAuth
     const params = new URLSearchParams({
       client_id: process.env.GITHUB_CLIENT_ID,
       redirect_uri: 'https://journal.shefreynolds.com/api/auth',
@@ -41,13 +45,14 @@ module.exports = async function handler(req, res) {
     return res.redirect(`https://github.com/login/oauth/authorize?${params}`);
   }
 
-  // Step 2: exchange code for token
   try {
     const data = await exchangeCodeForToken(
       process.env.GITHUB_CLIENT_ID,
       process.env.GITHUB_CLIENT_SECRET,
       code
     );
+
+    console.log('token exchange result:', data.access_token ? 'success' : JSON.stringify(data));
 
     if (data.access_token) {
       res.setHeader('Content-Type', 'text/html');
@@ -63,6 +68,7 @@ module.exports = async function handler(req, res) {
       res.status(401).send('Authentication failed: ' + JSON.stringify(data));
     }
   } catch (err) {
+    console.error('auth error:', err.message);
     res.status(500).send('Server error: ' + err.message);
   }
 };
