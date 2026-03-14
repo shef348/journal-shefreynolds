@@ -1,7 +1,13 @@
 {
+  "framework": "hugo",
   "build": {
     "env": {
       "HUGO_VERSION": "0.121.0"
+    }
+  },
+  "functions": {
+    "api/auth.js": {
+      "runtime": "nodejs18.x"
     }
   }
 }
