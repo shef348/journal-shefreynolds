@@ -2,7 +2,6 @@
 title: "25001A - Workout 70% of the year"
 date: 2025-01-01
 draft: false
-tags: ["experiments"]
 ---
 
 ### Updated - 25.01.01

@@ -2,7 +2,6 @@
 title: "25005A - Read 52 books"
 date: 2025-01-01
 draft: false
-tags: ["experiments"]
 ---
 
 ### Updated

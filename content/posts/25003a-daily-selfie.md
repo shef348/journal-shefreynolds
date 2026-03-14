@@ -2,7 +2,6 @@
 title: "25003A - Daily selfie"
 date: 2025-01-01
 draft: false
-tags: ["experiments"]
 ---
 
 ## Updated

@@ -2,7 +2,6 @@
 title: "25014M - Record a &lt;3 minute nano-vlog daily"
 date: 2025-01-11
 draft: false
-tags: ["experiments"]
 ---
 
 ### Updated

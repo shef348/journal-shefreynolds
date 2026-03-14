@@ -58,36 +58,6 @@ header a { text-decoration: none; color: var(--text); }
 
 .site-nav a:hover { color: var(--text); }
 
-/* ── Tag Filter ── */
-.tag-filter {
-  display: flex;
-  gap: 0.5rem;
-  margin-bottom: 2rem;
-}
-
-.tag-btn {
-  background: none;
-  border: 1px solid var(--border);
-  border-radius: 2rem;
-  padding: 0.25rem 0.85rem;
-  font-size: 0.8rem;
-  color: var(--muted);
-  cursor: pointer;
-  font-family: var(--font);
-  transition: all 0.15s;
-}
-
-.tag-btn:hover {
-  color: var(--text);
-  border-color: #ccc;
-}
-
-.tag-btn.active {
-  background: var(--text);
-  border-color: var(--text);
-  color: #fff;
-}
-
 /* ── Post List ── */
 .post-list { list-style: none; }
 

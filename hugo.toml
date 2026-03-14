@@ -6,7 +6,5 @@ title = "Shef Reynolds"
   description = "A journal by Shef Reynolds"
   author = "Shef Reynolds"
 
-disableKinds = ["taxonomy", "term"]
-
 [permalinks]
   posts = "/:year/:month/:slug/"

@@ -2,7 +2,6 @@
 title: "25007A - Sleep in the van for 30+ days"
 date: 2025-01-01
 draft: false
-tags: ["experiments"]
 ---
 
 ### Updated
