@@ -1,7 +1,7 @@
 ---
 title: "Street Scenes"
 date: 2013-11-08
-draft: false
+draft: true
 ---
 
 ![ Street Corner, NYC ](https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068654679-KUSSQ5HMGVQBJ3C3FR1H/20130731_Trade+100_0452.jpg?format=2500w)
