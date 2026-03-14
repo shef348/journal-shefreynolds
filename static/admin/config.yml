@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: shef348/journal-shefreynolds
+  branch: main
+  base_url: https://journal.shefreynolds.com
+  auth_endpoint: /api/auth
+
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: posts
+    label: Posts
+    folder: content/posts
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Body, name: body, widget: markdown }
