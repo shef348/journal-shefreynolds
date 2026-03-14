@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1633702586754-TV6BSSJC2BGGOTFE7MXQ/IMG_2302.JPG?format=2500w)
+
   
 
   It just takes a glance at my last post to know that I had a lot of aspirations for this week and month. 

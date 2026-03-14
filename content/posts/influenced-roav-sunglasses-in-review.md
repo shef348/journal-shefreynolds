@@ -4,17 +4,14 @@ date: 2019-09-10
 draft: false
 ---
 
-![ Photo by Shef Reynolds, 2019 ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1568056965507-PNSUOLLTXKWEOBF7J2Z0/IMG_20190908_095937.jpg?format=2500w)  Photo by Shef Reynolds, 2019  
+![ Photo by Shef Reynolds, 2019 ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1568056965507-PNSUOLLTXKWEOBF7J2Z0/IMG_20190908_095937.jpg?format=2500w)
+  Photo by Shef Reynolds, 2019  
   
 
   ### *Like many, I’m a sucker for targeted advertisements. This is the first (and possibly only) in a series of online item reviews that were influenced directly by online marketing channels.  Each item was purchased without  prior experience or exposure.  *
+![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1568056858060-YC6Z5APT4AAXGA2WTRAU/IMG_20190908_095832.jpg?format=2500w)
+![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1568056808871-G55MFTAR5DYVX0WZ61LH/IMG_20190908_100134.jpg?format=2500w)
 
-  
-      ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1568056858060-YC6Z5APT4AAXGA2WTRAU/IMG_20190908_095832.jpg?format=2500w)
-  
-
-  
-      ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1568056808871-G55MFTAR5DYVX0WZ61LH/IMG_20190908_100134.jpg?format=2500w)
   
 
   ### Channel: Instagram Ad

@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1634177184040-E5UJZUJDTYPSL0P1RIBL/MacBook+Air+2015?format=2500w)
+
   
 
   Two weeks ago I bought a computer for the first time since 2016. This is a device that I dreamed about since 2011, and it wasn’t until now that I pulled the trigger. 

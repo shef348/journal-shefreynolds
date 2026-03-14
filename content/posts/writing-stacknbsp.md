@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/100b7352-1c0b-4490-b251-ae794886ebb8/Bear-Notes.jpeg?format=2500w)
+
   
 
   A few weeks ago, I talked about my [new-to-me laptop](https://www.shefreynolds.com/blog/2021/10/13/old-is-new). 

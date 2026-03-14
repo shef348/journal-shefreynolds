@@ -4,7 +4,8 @@ date: 2021-03-10
 draft: false
 ---
 
-![ The Peloton Bike+ resting in the corner of the basement. Photo by Author 2021 ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1615389524093-40EV47Z9ITY3R2WQF8EQ/1_oB0IAXkxOGQgfH4kgCuJEw.jpeg?format=2500w)  The Peloton Bike+ resting in the corner of the basement. Photo by Author 2021  
+![ The Peloton Bike+ resting in the corner of the basement. Photo by Author 2021 ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1615389524093-40EV47Z9ITY3R2WQF8EQ/1_oB0IAXkxOGQgfH4kgCuJEw.jpeg?format=2500w)
+  The Peloton Bike+ resting in the corner of the basement. Photo by Author 2021  
   
 
   # I’m surprised too. 

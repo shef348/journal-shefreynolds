@@ -4,7 +4,8 @@ date: 2021-10-22
 draft: false
 ---
 
-![ Photo by me, 2021 ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/b7a0cd0b-b2b9-462d-84b4-2458381a0ba9/Pumpkintime?format=2500w)  Photo by me, 2021  
+![ Photo by me, 2021 ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/b7a0cd0b-b2b9-462d-84b4-2458381a0ba9/Pumpkintime?format=2500w)
+  Photo by me, 2021  
   
 
   That was short-lived. The old but new to me laptop trackpad broke. Alas, it heads back to the seller today, with the promise that it or a replacement will find its way to me within a few days of receipt. Unfortunately, this likely means that my plan to write a novel exclusively on the little laptop that could isn’t going to happen, as I plan to start on November 1st. But this is the inherent risk of buying an aged and inexpensive device from a reseller. I am happy that I went through a well-reviewed vendor, and the problem should be only an inconvenience. 

@@ -5,10 +5,8 @@ draft: false
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1597092978281-J8KFVWAKRPOQ6O5HWV5E/ShefR-3071.jpg?format=2500w)
-  
+![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1597093030487-JY3FVT6OJCC1QXPQL8P5/ShefR-.jpg?format=2500w)
 
-  
-      ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1597093030487-JY3FVT6OJCC1QXPQL8P5/ShefR-.jpg?format=2500w)
   
 
   With the pandemic’s end more mirage than anything, my EDC and Work carry looks quite different this year.  At this point, I’m set to work from home indefinitely, and even when the office reopens I intend to remain primarily working from home.

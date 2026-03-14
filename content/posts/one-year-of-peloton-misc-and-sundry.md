@@ -4,7 +4,8 @@ date: 2021-10-15
 draft: false
 ---
 
-![ Photo by me: Cathedral Ledge, New Hampshire 2021. ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1634261591225-WWVUOFFANGS3ZSSMPWWD/Cathedral+Ledge%2C+NH+2021?format=2500w)  Photo by me: Cathedral Ledge, New Hampshire 2021.  
+![ Photo by me: Cathedral Ledge, New Hampshire 2021. ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1634261591225-WWVUOFFANGS3ZSSMPWWD/Cathedral+Ledge%2C+NH+2021?format=2500w)
+  Photo by me: Cathedral Ledge, New Hampshire 2021.  
   
 
   This week marked a full year of Peloton Bike+ ownership.  You can read more about my experience with Peloton [here](https://www.shefreynolds.com/blog/2021/3/10/why-buying-a-peloton-bike-was-my-best-decision-innbsp2020), but on its anniversary wanted to drop a few quick notes. 

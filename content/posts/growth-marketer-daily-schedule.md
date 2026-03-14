@@ -4,7 +4,8 @@ date: 2021-10-19
 draft: false
 ---
 
-![ Photo Credit - firmbee.com - Unsplash ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1634181289054-UUD87RZYIDQUSFOCNGLB/firmbee-com-GANqCr1BRTU-unsplash.jpg?format=2500w)  Photo Credit - firmbee.com - Unsplash  
+![ Photo Credit - firmbee.com - Unsplash ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1634181289054-UUD87RZYIDQUSFOCNGLB/firmbee-com-GANqCr1BRTU-unsplash.jpg?format=2500w)
+  Photo Credit - firmbee.com - Unsplash  
   
 
   2020 and 2021 have tossed the ingredients of everyday life into a cocktail shaker, given it a good mix, and strained those responsibilities and roles into a martini glass until the liquid flowed out of the edges. 

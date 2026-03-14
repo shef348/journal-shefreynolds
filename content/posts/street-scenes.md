@@ -4,11 +4,10 @@ date: 2013-11-08
 draft: false
 ---
 
-![ Street Corner, NYC ](https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068654679-KUSSQ5HMGVQBJ3C3FR1H/20130731_Trade+100_0452.jpg?format=2500w)  Street Corner, NYC  
-  
+![ Street Corner, NYC ](https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068654679-KUSSQ5HMGVQBJ3C3FR1H/20130731_Trade+100_0452.jpg?format=2500w)
+  Street Corner, NYC  
+![](https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938421102-ET04XM9X9GH2E62XJQZS/20130731_Trade+100_0260.jpg?format=2500w)
 
-  
-      ![](https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938421102-ET04XM9X9GH2E62XJQZS/20130731_Trade+100_0260.jpg?format=2500w)
   
 
   You never know what you’ll find on the streets. And if you happen to be a photographer working in New York, that’s doubly true. I’ve had the good fortune to shoot all over the world, and when I come back to New York, I’m always reminded of why I started my career here.

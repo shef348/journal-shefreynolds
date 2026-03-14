@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/1618843604155-OEKKVH4EUL85YV8CXY5M/SR-21EDC-4566.jpg?format=2500w)
+
   
 
   Somehow, we’re back with another round of Everyday Carry - Quarantine edition. You can see last year’s list [here](https://www.shefreynolds.com/blog/2020/8/12/stay-at-home-everyday-carry)

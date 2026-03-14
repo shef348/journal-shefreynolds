@@ -4,7 +4,8 @@ date: 2021-10-29
 draft: false
 ---
 
-![ Photo by me - Returning from Zoo Trick or Treating with the Pumpkin King.  ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/9a8f4b43-3c1f-4a44-bbdf-af7065fffe8d/26D154F8-195C-4EC1-8276-99A4A6C2788E_1_105_c.jpeg?format=2500w)  Photo by me - Returning from Zoo Trick or Treating with the Pumpkin King.   
+![ Photo by me - Returning from Zoo Trick or Treating with the Pumpkin King.  ](https://images.squarespace-cdn.com/content/v1/570eaee562cd947719284b25/9a8f4b43-3c1f-4a44-bbdf-af7065fffe8d/26D154F8-195C-4EC1-8276-99A4A6C2788E_1_105_c.jpeg?format=2500w)
+  Photo by me - Returning from Zoo Trick or Treating with the Pumpkin King.   
   
 
   Two days until Halloween. The Pumpkin King had his first lollipop while trick or treating at the zoo last weekend. When I gave him another after nap yesterday, his eyes grew wide, and his joy went viral. He and the mischievous Loki are fired up for Halloween, and we can’t wait to go trick or treating with them. 
