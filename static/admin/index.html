@@ -6,29 +6,37 @@
   <title>Journal Admin</title>
 </head>
 <body>
-  <script type="application/x-decap-cms-config">
-backend:
-  name: github
-  repo: shef348/journal-shefreynolds
-  branch: main
-  base_url: https://journal.shefreynolds.com
-  auth_endpoint: /api/auth
-
-media_folder: static/images
-public_folder: /images
-
-collections:
-  - name: posts
-    label: Posts
-    folder: content/posts
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Date, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
-      - { label: Draft, name: draft, widget: boolean, default: false }
-      - { label: Body, name: body, widget: markdown }
-  </script>
+  <script>window.CMS_MANUAL_INIT = true;</script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+    CMS.init({
+      config: {
+        backend: {
+          name: 'github',
+          repo: 'shef348/journal-shefreynolds',
+          branch: 'main',
+          base_url: 'https://journal.shefreynolds.com',
+          auth_endpoint: '/api/auth'
+        },
+        media_folder: 'static/images',
+        public_folder: '/images',
+        collections: [
+          {
+            name: 'posts',
+            label: 'Posts',
+            folder: 'content/posts',
+            create: true,
+            slug: '{{slug}}',
+            fields: [
+              { label: 'Title', name: 'title', widget: 'string' },
+              { label: 'Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false },
+              { label: 'Draft', name: 'draft', widget: 'boolean', default: false },
+              { label: 'Body', name: 'body', widget: 'markdown' }
+            ]
+          }
+        ]
+      }
+    });
+  </script>
 </body>
 </html>
