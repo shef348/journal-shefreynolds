@@ -2,6 +2,7 @@
 title: "25015M - Intermittent Fast on a 16/8 schedule"
 date: 2025-01-11
 draft: false
+filters: ["experiments"]
 ---
 
 ### Updated

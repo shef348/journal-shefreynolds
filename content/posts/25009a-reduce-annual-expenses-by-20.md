@@ -2,6 +2,7 @@
 title: "25009A - Reduce annual expenses by 20%"
 date: 2025-01-01
 draft: false
+filters: ["experiments"]
 ---
 
 ### Updated

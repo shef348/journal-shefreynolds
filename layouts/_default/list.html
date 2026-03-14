@@ -1,10 +1,30 @@
 {{ define "main" }}
+<nav class="tag-filter">
+  <button class="tag-btn active" data-tag="all">All</button>
+  <button class="tag-btn" data-tag="reviews">Reviews</button>
+  <button class="tag-btn" data-tag="experiments">Experiments</button>
+</nav>
 <ul class="post-list">
   {{ range .Pages }}
-  <li>
+  <li data-filter="{{ with .Params.filters }}{{ delimit . "," }}{{ end }}">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
     <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
   </li>
   {{ end }}
 </ul>
+<script>
+  const buttons = document.querySelectorAll('.tag-btn');
+  const posts = document.querySelectorAll('.post-list li');
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const tag = btn.dataset.tag;
+      posts.forEach(post => {
+        const filters = post.dataset.filter ? post.dataset.filter.split(',') : [];
+        post.style.display = (tag === 'all' || filters.includes(tag)) ? '' : 'none';
+      });
+    });
+  });
+</script>
 {{ end }}

@@ -2,6 +2,7 @@
 title: "25010A - Complete a first draft of a novel"
 date: 2025-01-01
 draft: false
+filters: ["experiments"]
 ---
 
 ### Updated
