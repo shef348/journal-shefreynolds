@@ -3,10 +3,24 @@ title: "Buy It Write It"
 date: 2026-03-17
 draft: false
 ---
+### Duration
+March - June 2026
 
-A new quarterly experiment running March 15 through the end of June.
+## Parameters
 
-The rule: if I buy something, I have to write about it and publish it.
+| Parameter        | Detail                                              |
+|------------------|-----------------------------------------------------|
+| ID               | 26003Q                                              |
+| Duration         | ~15 weeks                                           |
+| Start Date       | 2026-03-15                                          |
+| End Date         | 2026-06-30                                          |
+| Rule             | Any purchase requires a written, published piece    |
+| Tracking Method  | Published posts on journal                          |
+| Success Criteria | Every purchase has a corresponding published essay  |
+
+## Objective
+
+If I buy something, I have to write about it and publish it.
 
 ## Why
 
