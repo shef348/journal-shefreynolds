@@ -2,6 +2,7 @@
 title: "26003Q - Buy It Write It"
 date: 2026-03-17
 draft: false
+filters: ["experiments"]
 ---
 ### Duration
 March - June 2026
